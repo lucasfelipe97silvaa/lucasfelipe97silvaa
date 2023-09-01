@@ -1,7 +1,7 @@
 # Ola!!👋  Me chamo Lucas Felipe 
 Sou estudante dev apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
-## Sobre mim: 
+## **Sobre mim:** 
 Eu tenho 26 anos e sou estudante do curso Técnico em Informática para Internet, Senac-Campinas. 
 
 

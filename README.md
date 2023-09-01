@@ -5,14 +5,12 @@ Sou estudante dev apaixonado por tecnologia, buscando transformar sonhos em real
 
 ## ⚙️ Linguagens e Ferramentas 
   <div style="display: inline_block"><br>
+    <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/html5-plain.svg" width="50" height="40" align="center"/>
+    <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/css3-plain.svg" width="50" height="40" align="center"/>
     <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-    <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
     <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
     <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
-    <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/>
     <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
-    <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
-    <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
   /div><br>
     
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-b0846a279/)

@@ -1,9 +1,12 @@
-# Ola!! Me chamo Lucas Felipe 👋 
+# Ola!!👋  Me chamo Lucas Felipe 
 Sou estudante dev apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfelipe97silvaa&show_icons=true&theme=radical)
+## Sobre mim: 
+Eu tenho 26 anos e sou estudante do curso Técnico em Informática para Internet, Senac-Campinas. 
 
-## ⚙️ Linguagens e Ferramentas 
+
+
+## ⚙️ **Linguagens e Ferramentas:**
   <div style="display: inline_block"><br>
     <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/html5-plain.svg" width="50" height="40" align="center"/>
     <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/css3-plain.svg" width="50" height="40" align="center"/>
@@ -12,8 +15,10 @@ Sou estudante dev apaixonado por tecnologia, buscando transformar sonhos em real
     <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
     <img src="https://github.com/lucasfelipe97silvaa/lucasfelipe97silvaa/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
   </div><br>
+
     
-## Vamos nos Conectar
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfelipe97silvaa&show_icons=true&theme=radical)
+## ** Vamos nos Conectar:**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/lucas-silva-b0846a279/" alt="Linkedin">

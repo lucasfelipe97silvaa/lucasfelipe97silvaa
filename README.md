@@ -18,7 +18,7 @@ Eu tenho 26 anos e sou estudante do curso Técnico em Informática para Internet
 
     
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfelipe97silvaa&show_icons=true&theme=radical)
-## ** Vamos nos Conectar:**
+## **Vamos nos Conectar:**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/lucas-silva-b0846a279/" alt="Linkedin">

@@ -3,6 +3,7 @@ Sou estudante dev apaixonado por tecnologia, buscando transformar sonhos em real
 
 ## **Sobre mim:** 
 Eu tenho 26 anos e sou estudante do curso Técnico em Informática para Internet, Senac-Campinas. 
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfelipe97silvaa&show_icons=true&theme=radical)
 
 
 
@@ -17,7 +18,6 @@ Eu tenho 26 anos e sou estudante do curso Técnico em Informática para Internet
   </div><br>
 
     
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfelipe97silvaa&show_icons=true&theme=radical)
 ## **Vamos nos Conectar:**
 
 <p align="left">

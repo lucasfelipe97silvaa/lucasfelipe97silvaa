@@ -22,7 +22,7 @@ Sou estudante dev apaixonado por tecnologia, buscando transformar sonhos em real
   <a target="_blank" href="https://www.instagram.com/lu.caax/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-   <a target="_blank" href="mailto:alexandresaintss@gmail.com" alt="Gmail">
+   <a target="_blank" href="mailto:lucasfelipe97silva@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 <br>

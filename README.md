@@ -1,11 +1,7 @@
 # Ola!!👋  Me chamo Lucas Felipe 
-Sou estudante dev apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+Sou um desenvolvedor jr. apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfelipe97silvaa&show_icons=true&theme=radical)
-
-## **Sobre mim:** 
-Eu tenho 26 anos e sou estudante do curso Técnico em Informática para Internet, Senac-Campinas. 
-
 
 
 ## ⚙️ **Linguagens e Ferramentas:**
